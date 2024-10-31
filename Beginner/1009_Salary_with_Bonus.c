@@ -20,5 +20,3 @@ int main() {
 }
 
 // Solved By Tahmid Mustofa
-
-Salary with Bonus
